@@ -4,4 +4,4 @@ Currently supported banks (more to be added soon):
 - ING 
 
 Simply drag all your files into the 'files' folder an run 'extraction.py'. The script will output one Excel file per Month of data it can find. 
-
+The Excel file and the cashflow model itself is build by [Felix Köhne](https://www.linkedin.com/in/felix-k%C3%B6hne/).
